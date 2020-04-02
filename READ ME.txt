@@ -1,0 +1,1 @@
+To run the app, run the driver.rb file with the command ruby driver.rb in a terminal.

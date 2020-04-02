@@ -1,3 +1,6 @@
+#Author: Yada Meas
+#Purpose: the program allows a user to make a simple order of a burger.
+
 require './burger_kitchen'
 
 puts "=" * 34 + "\n||\t\t\t\t||\n||\t    BOB BURGER\t\t||\n||\t\t\t\t||\n" + "=" * 34
